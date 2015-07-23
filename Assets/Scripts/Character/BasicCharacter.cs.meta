@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 7b52b4855a75f42f797f70304b75e910
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - stars: {fileID: 100000, guid: e6198176cd48ab440b37149664b4e5d0, type: 2}
+  - runSound: {instanceID: 0}
+  - simpleMeleeAttackSound: {instanceID: 0}
+  - bigMeleeAttackSound: {instanceID: 0}
+  - rangeAttackSound: {instanceID: 0}
+  - superAttackSound: {instanceID: 0}
+  - jumpSound: {instanceID: 0}
+  - dieSound: {instanceID: 0}
+  - getHitSound: {instanceID: 0}
+  - defendSound: {instanceID: 0}
+  - respawnSound: {instanceID: 0}
+  - provocationSound: {instanceID: 0}
+  - introSound: {instanceID: 0}
+  - throwAttackSound: {instanceID: 0}
+  - beThrownSound: {instanceID: 0}
+  - observer: {instanceID: 0}
+  - LandingDust: {instanceID: 0}
+  - simpleAttack: {instanceID: 0}
+  - bMeleeAttack: {instanceID: 0}
+  - rgAttack: {instanceID: 0}
+  - sprAttack: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

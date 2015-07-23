@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5378e9e7d3480e64fa48aab7028d6d16
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - miniCam: {instanceID: 0}
+  - mainCam: {instanceID: 0}
+  - gui: {instanceID: 0}
+  - wings: {fileID: 100018, guid: db85f700412187c498fbb3cd5fd5df85, type: 3}
+  - point1: {instanceID: 0}
+  - point2: {instanceID: 0}
+  - point3: {instanceID: 0}
+  - point4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

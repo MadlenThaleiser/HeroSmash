@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="31479976-f869-44b9-8d02-255e6297ba9b" Title="HeroSmash Namespace" Url="html/75810c1d-bd5d-07c6-21c7-b38ccb812103.htm">
+    <HelpTOCNode Id="1ec1092e-6048-4fdd-9a59-9b92a518b832" Title="AnimationHelper Class" Url="html/c3b99026-d01f-3cdb-982d-0ada00e353c3.htm">
+      <HelpTOCNode Title="AnimationHelper Members" Url="html/39868378-5ec8-80e1-37e3-7f5044d76570.htm" />
+      <HelpTOCNode Title="AnimationHelper Constructor " Url="html/7ad63b57-7e7b-798c-3af9-c977fca7186f.htm" />
+      <HelpTOCNode Id="446b57a3-a5a4-4567-b95c-3ed18af2de98" Title="AnimationHelper Fields" Url="html/07c15ed9-00c4-0d8a-2c97-4d21c6c3f22b.htm">
+        <HelpTOCNode Title="TIME_SCALE Field" Url="html/fc23ea07-b533-cde9-f2f3-c090c1460280.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f5ba8d34-20c3-4438-8352-ae4b6838cfdc" Title="AnimationHelper Methods" Url="html/1528204a-4438-b277-e170-858dc3b5a309.htm">
+        <HelpTOCNode Title="normalizeSpeed Method " Url="html/36fb3e87-a477-7379-4129-0068cdfd7668.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bbd9e84d-4af2-4b65-8224-78004171accb" Title="Attack Interface" Url="html/52c3df83-169b-5caf-a97b-223d11ec3da6.htm">
+      <HelpTOCNode Title="Attack Members" Url="html/c0f320be-2492-391b-b893-9f544ae947d7.htm" />
+      <HelpTOCNode Id="800b422c-9e65-4a07-a1f7-59cccf6a1acb" Title="Attack Properties" Url="html/72df2111-bd08-42a0-817a-cad220e6ed73.htm">
+        <HelpTOCNode Title="damage Property " Url="html/95d49007-a74c-5d5c-166f-caacc52ac02c.htm" />
+        <HelpTOCNode Title="force Property " Url="html/75f77402-3150-b81d-f077-1c3ebc14e9d6.htm" />
+        <HelpTOCNode Title="isSuperAttack Property " Url="html/3dc8f202-e9c3-1faf-9285-a64cd8466569.htm" />
+        <HelpTOCNode Title="ownerID Property " Url="html/21d82e1a-3860-3793-b850-c1ecc511d24e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="691a5be6-dadf-44c2-bd57-736808c3d2d0" Title="BasicAttack Class" Url="html/99910afa-3465-b4cf-9f32-6c647b3fa3b8.htm">
+      <HelpTOCNode Title="BasicAttack Members" Url="html/97ffeeb1-d65a-2407-4bc0-19916b6300ab.htm" />
+      <HelpTOCNode Title="BasicAttack Constructor " Url="html/a42bcac5-9a78-e18f-d48c-4e036aca9f0e.htm" />
+      <HelpTOCNode Id="ebd03d72-f470-4fd5-a51b-2f6033a5aa1e" Title="BasicAttack Fields" Url="html/acdd45e7-73ab-a623-0d4a-802f187087b1.htm">
+        <HelpTOCNode Title="_attacker Field" Url="html/e9ef8d16-cad4-e45a-f8c4-f5f8d423f58d.htm" />
+        <HelpTOCNode Title="_damage Field" Url="html/533608d1-c74c-1a74-eb69-7cc9cec13579.htm" />
+        <HelpTOCNode Title="_force Field" Url="html/359b52ea-0a98-9e00-a4c1-3b872fdfa646.htm" />
+        <HelpTOCNode Title="_ownerID Field" Url="html/a569e04e-32fb-8a1a-a8fd-4b94c703f150.htm" />
+        <HelpTOCNode Title="_spammed Field" Url="html/ef01ea52-35d1-de2e-093a-67f7acd37044.htm" />
+        <HelpTOCNode Title="delay Field" Url="html/bd0f1636-666d-9b8e-210f-077c4dc3c1a4.htm" />
+        <HelpTOCNode Title="delayTimer Field" Url="html/5e075b69-4429-7979-cb69-98ef2ac9b21f.htm" />
+        <HelpTOCNode Title="direction Field" Url="html/c4aee1f5-3beb-9c50-5534-9e452dc5ff05.htm" />
+        <HelpTOCNode Title="initialX Field" Url="html/893c1bf3-bf71-f872-4e42-93238516d5bb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8faf6967-4abd-4082-a0c0-3ecf196784bd" Title="BasicAttack Methods" Url="html/d6b35d6e-58b1-1328-8624-bae33a92ab64.htm">
+        <HelpTOCNode Id="be1f2b0f-dee0-45fb-9ce2-2d77eed844fd" Title="init Method " Url="html/4e65a552-cebb-8b0e-586d-5c2caf831733.htm">
+          <HelpTOCNode Title="init Method (Int32, Int32, Single)" Url="html/9f90cb15-ddd8-982f-db9c-3f0ad3f755a3.htm" />
+          <HelpTOCNode Title="init Method (Int32, Int32, Single, Single)" Url="html/e0487ef4-060d-a5f8-1155-c32a002b5ff3.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="moveAttack Method " Url="html/570a3207-525b-6d65-a2b6-ebe46b648874.htm" />
+        <HelpTOCNode Title="OnTriggerEnter Method " Url="html/861bd2a0-a5c0-2834-973c-e17fd71762b7.htm" />
+        <HelpTOCNode Title="setDirection Method " Url="html/75d4e966-79dd-da5f-d795-87cbc9fb2b90.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6e85f0a1-179d-4791-9450-dbb1bb14b9b6" Title="BasicAttack Properties" Url="html/f7d046bb-0c8c-8b01-062e-3631f32903af.htm">
+        <HelpTOCNode Title="attacker Property " Url="html/47edd127-9893-a7e9-b126-7f1e871ef6cf.htm" />
+        <HelpTOCNode Title="attackOffset Property " Url="html/81d46cd2-4c79-6a12-3a12-d235e065c358.htm" />
+        <HelpTOCNode Title="damage Property " Url="html/02191550-d527-adb2-d616-3d3335791187.htm" />
+        <HelpTOCNode Title="force Property " Url="html/af40a18c-7e27-7260-c549-53885926f026.htm" />
+        <HelpTOCNode Title="isSuperAttack Property " Url="html/a1853bcf-44f1-60df-e745-d19fc2ea8b2d.htm" />
+        <HelpTOCNode Title="ownerID Property " Url="html/c5b3a56a-050b-1828-e9e8-303b0feb4285.htm" />
+        <HelpTOCNode Title="range Property " Url="html/4271507c-fc03-0c27-3654-cdfd27775522.htm" />
+        <HelpTOCNode Title="spammed Property " Url="html/4b3c8356-b6bc-dfbe-9003-5cb1b4abef9b.htm" />
+        <HelpTOCNode Title="speed Property " Url="html/23a51513-6f8f-d0ed-47d9-163518b6e7df.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="32e68f65-bce1-40ac-b2fb-0ba368b65059" Title="BasicCharacter Class" Url="html/ef457da8-653f-70ce-d5e0-7128d1aa5cca.htm">
+      <HelpTOCNode Title="BasicCharacter Members" Url="html/841da715-4b3e-84d0-01e8-dfd5d636f10f.htm" />
+      <HelpTOCNode Title="BasicCharacter Constructor " Url="html/7de8a346-02ce-31b4-93d6-36ff4b303e86.htm" />
+      <HelpTOCNode Id="ef6e1e04-bf98-487d-ad88-e9525a91dffc" Title="BasicCharacter Fields" Url="html/bbfc58a6-5571-f995-14e1-1a7704511116.htm">
+        <HelpTOCNode Title="attack Field" Url="html/090962c3-ae5d-94be-9b3c-4b204cca59a3.htm" />
+        <HelpTOCNode Title="ATTACKING Field" Url="html/5cad0119-0a98-5778-10d7-aa4cac9079a3.htm" />
+        <HelpTOCNode Title="beThrownSound Field" Url="html/3f37ece3-95d0-8011-d2f1-04aa6bcde308.htm" />
+        <HelpTOCNode Title="bigMeleeAttackSound Field" Url="html/b5e1c7a9-923b-e154-3010-3d09cf9f1945.htm" />
+        <HelpTOCNode Title="bMeleeAttack Field" Url="html/4f8699d5-0395-4a36-3a3e-602b5dce5d5b.htm" />
+        <HelpTOCNode Title="DEAD Field" Url="html/1be800c8-9365-20b1-98b5-4df3ea7fe664.htm" />
+        <HelpTOCNode Title="deadWidth Field" Url="html/70a938e4-eb4c-1d24-6e76-4b23aa30beee.htm" />
+        <HelpTOCNode Title="DEFENDING Field" Url="html/4067739c-3f80-54a4-6b4f-012f84c79eee.htm" />
+        <HelpTOCNode Title="defendSound Field" Url="html/168a79b3-8d90-2052-32ae-1d40a9823bc7.htm" />
+        <HelpTOCNode Title="dieSound Field" Url="html/94a6f4ac-596e-08a4-8691-c66dd9352dfc.htm" />
+        <HelpTOCNode Title="getHitSound Field" Url="html/117ca07c-01b8-f773-5b0c-139e3fa7d282.htm" />
+        <HelpTOCNode Title="introSound Field" Url="html/acd804f4-49d7-9029-a52e-259e3460bc8a.htm" />
+        <HelpTOCNode Title="INVINCIBLE Field" Url="html/9eedd97d-109a-fb48-abd6-f0aa5cbca2ec.htm" />
+        <HelpTOCNode Title="isInvicibleDefending Field" Url="html/3f60e870-0727-ad2b-7f41-5b97972daded.htm" />
+        <HelpTOCNode Title="jumpSound Field" Url="html/2619a478-8531-3532-3827-29c388b119fb.htm" />
+        <HelpTOCNode Title="LandingDust Field" Url="html/8ea888b1-a93e-11c3-e0ca-c7b262b3a207.htm" />
+        <HelpTOCNode Title="lastHitBy Field" Url="html/93ea12f0-b120-c1ab-33db-4e12c9735d43.htm" />
+        <HelpTOCNode Title="movingLeft Field" Url="html/412e5997-f0e0-020a-b22b-bf858f2dc177.htm" />
+        <HelpTOCNode Title="observer Field" Url="html/42cfc432-005f-88e6-12f1-8384391b6d18.htm" />
+        <HelpTOCNode Title="PARALYZED Field" Url="html/21559431-af5c-21ba-2eec-ece3076a4c6f.htm" />
+        <HelpTOCNode Title="provocationSound Field" Url="html/d500f167-363c-9de1-e72f-a1368077510e.htm" />
+        <HelpTOCNode Title="PROVOKING Field" Url="html/cb6b08b3-c946-36c7-45b5-849d3dc843fd.htm" />
+        <HelpTOCNode Title="rangeAttackSound Field" Url="html/efb250b8-8013-1ba7-d716-053a3315c3d7.htm" />
+        <HelpTOCNode Title="READY Field" Url="html/3fd9c0a4-9580-80d8-7faf-ecdba0219865.htm" />
+        <HelpTOCNode Title="respawnSound Field" Url="html/cad11caa-ae5b-656a-228d-063b21b240b1.htm" />
+        <HelpTOCNode Title="rgAttack Field" Url="html/d5561af1-d029-7019-b450-bc4c14a6200f.htm" />
+        <HelpTOCNode Title="runSound Field" Url="html/1fbf5f23-a38c-0d50-92cb-122366e349ab.htm" />
+        <HelpTOCNode Title="simpleAttack Field" Url="html/5ed14c7e-be85-8393-e4f6-ab72c8c479b9.htm" />
+        <HelpTOCNode Title="simpleMeleeAttackSound Field" Url="html/742e2eaf-7b19-a44f-288a-315245973e55.htm" />
+        <HelpTOCNode Title="sprAttack Field" Url="html/ab11c7f8-5670-3ab5-8a4e-e1e6746be3b3.htm" />
+        <HelpTOCNode Title="stars Field" Url="html/96e6b478-f143-9a45-1e65-4caf850e94ff.htm" />
+        <HelpTOCNode Title="superAttackSound Field" Url="html/b3c7a926-4a64-8e54-c97f-cdeaa49c9cb1.htm" />
+        <HelpTOCNode Title="throwAttackSound Field" Url="html/df51e86c-eaa6-f57d-1ce6-436b2a44400f.htm" />
+        <HelpTOCNode Title="THROWN Field" Url="html/fc5f70c2-b378-6ffd-e940-d724bf9a7fe5.htm" />
+        <HelpTOCNode Title="wasJumping Field" Url="html/19b0539c-babf-a560-ce72-89a5537851c2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f6813b55-2837-4d32-9fc9-b85ef0d3d890" Title="BasicCharacter Methods" Url="html/dc0e51fb-455e-6a0e-b9c8-b601a58b04d4.htm">
+        <HelpTOCNode Title="beingThrown Method " Url="html/8166e5bb-1779-3bea-d3db-3e7c77d50bc4.htm" />
+        <HelpTOCNode Title="bigMeleeAttack Method " Url="html/9d6fe2ed-c1ee-9cb3-db1e-53b83fe5d01c.htm" />
+        <HelpTOCNode Title="defend Method " Url="html/feefc8db-34d9-bbd1-3a12-f85c7a0d2644.htm" />
+        <HelpTOCNode Title="fall Method " Url="html/c1b12460-797e-fc39-9bbc-10b4c10017c8.htm" />
+        <HelpTOCNode Title="getWeightFactor Method " Url="html/c82b7b9f-28ef-f1e1-1a99-79755e1abb17.htm" />
+        <HelpTOCNode Id="025ebbcb-2ad8-41dc-bd3c-e4eff609c262" Title="gotHit Method " Url="html/a0aa0edb-1824-cd1c-3088-9cae6be7f0d1.htm">
+          <HelpTOCNode Title="gotHit Method (Collider)" Url="html/71099150-8fae-58cb-b7cc-bfaf2382cce8.htm" />
+          <HelpTOCNode Title="gotHit Method (GameObject)" Url="html/a372006b-00d3-4cb3-a7fc-c0515ea21b54.htm" />
+          <HelpTOCNode Title="gotHit Method (GameObject, Attack)" Url="html/c37362e5-6e87-0d6f-2721-7e9274352e40.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="gotThrown Method " Url="html/8f190906-c6ca-a07e-8b31-9336ffd1d83a.htm" />
+        <HelpTOCNode Title="holdUpDefense Method " Url="html/19965983-28d6-f9cf-a618-3878dfa5768e.htm" />
+        <HelpTOCNode Title="isGrounded Method " Url="html/61d7f995-2acd-e3ec-5dec-8af9cb1516ca.htm" />
+        <HelpTOCNode Title="jump Method " Url="html/b849c956-6519-0a47-7e35-9d0f5fa46034.htm" />
+        <HelpTOCNode Title="landingCheck Method " Url="html/ee3e3138-3f38-5a36-bed0-9f6c6628d54c.htm" />
+        <HelpTOCNode Title="move Method " Url="html/3250fe47-da8b-e300-2e0c-464906311cf1.htm" />
+        <HelpTOCNode Title="OnCollisionEnter Method " Url="html/e910034b-79c8-5a5d-bb58-4d1877bb498d.htm" />
+        <HelpTOCNode Title="OnParticleCollision Method " Url="html/a6f91897-1d0b-3673-5ed4-1db98316b1c8.htm" />
+        <HelpTOCNode Title="playMoveSound Method " Url="html/b67716b1-9579-d519-1039-e22129a27cc0.htm" />
+        <HelpTOCNode Title="rangeAttack Method " Url="html/deb87715-3c7d-40fb-7736-d5b5c4e07525.htm" />
+        <HelpTOCNode Title="releaseThrow Method " Url="html/60c0fe82-1a6e-e6bc-1f94-675db261929f.htm" />
+        <HelpTOCNode Title="resetThrowRotation Method " Url="html/c1c42318-bed4-fffa-4971-505b2339e7f8.htm" />
+        <HelpTOCNode Title="setWeightFactor Method " Url="html/cec41f3d-c862-22c8-ef08-9856a473adae.htm" />
+        <HelpTOCNode Title="slowDown Method " Url="html/fdba7562-0c10-d35e-6c1b-be520e8eee25.htm" />
+        <HelpTOCNode Title="slowDownFor5Seconds Method " Url="html/8da5bee5-208a-7c8c-091a-fe2a83c5332f.htm" />
+        <HelpTOCNode Title="specialDefending Method " Url="html/ea4c6b78-6f62-5c33-ca97-611d7257ba8e.htm" />
+        <HelpTOCNode Title="standardAttack Method " Url="html/d22016de-6874-2b52-b064-2efc89caf231.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/5d16974f-bc17-b713-0121-294aecfee7a0.htm" />
+        <HelpTOCNode Title="superAttack Method " Url="html/dae3a633-66a6-1392-eeaa-7af9cca1899f.htm" />
+        <HelpTOCNode Title="throwEnemy Method " Url="html/5385916b-da01-f306-464e-1739a16b9b34.htm" />
+        <HelpTOCNode Title="tooFast Method " Url="html/1e2b3463-8c4b-4837-e014-16c45fe9485f.htm" />
+        <HelpTOCNode Title="unParalyze Method " Url="html/94487be4-5b84-4616-87a4-fa559b746ef3.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/211574dc-d740-6597-b460-1116f62f0944.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fca28a1b-9010-4783-ae8a-bac82995c275" Title="BasicCharacter Properties" Url="html/efbf38f9-fddb-0cf5-87c2-881a6128fe41.htm">
+        <HelpTOCNode Title="playerID Property " Url="html/0b0d78fe-ab68-69ef-6d6f-2dadd30e30fe.htm" />
+        <HelpTOCNode Title="state Property " Url="html/d64120b6-542b-ce9a-9cfe-bef8816b5296.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3b2c8f1a-5f2f-4eaa-82ee-aafad43f8850" Title="BigMeleeAttack Class" Url="html/5af16d07-81b9-aeb0-2e19-6cd962c66069.htm">
+      <HelpTOCNode Title="BigMeleeAttack Members" Url="html/02f5be4c-6c3b-34ff-d7c3-7825529e75e9.htm" />
+      <HelpTOCNode Title="BigMeleeAttack Constructor " Url="html/46f64f91-b9ea-6c2d-ad5c-c48bf0353cbb.htm" />
+      <HelpTOCNode Title="BigMeleeAttack Fields" Url="html/393727cb-029a-2c66-7592-e6518a73a637.htm" />
+      <HelpTOCNode Id="cd7c0e0e-1fcc-4e52-a6a1-26019d3ff8b0" Title="BigMeleeAttack Methods" Url="html/20e4f230-58c6-2553-3b3c-0938f34aa0c2.htm">
+        <HelpTOCNode Title="Start Method " Url="html/3df9ae95-8eef-5d4b-79cc-9220cb13c790.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/87a91473-a577-00da-2d9f-8bc3b1c7531a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d120449d-a9cd-493c-b49d-5b82e5ce9a12" Title="BigMeleeAttack Properties" Url="html/b8254eb9-464a-6ccb-2c23-5f9198c6c5d7.htm">
+        <HelpTOCNode Title="range Property " Url="html/ce032d80-b8d2-2092-2780-69800fcebe47.htm" />
+        <HelpTOCNode Title="speed Property " Url="html/c5ad5881-fb66-8f25-360e-0399257dfd6e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="131e0fda-8086-4b30-bb21-02e4a6bf8193" Title="CameraZoom Class" Url="html/b11d9832-edb6-1b62-08a5-c108afd86d8d.htm">
+      <HelpTOCNode Title="CameraZoom Members" Url="html/085b167f-9aaa-c870-8046-9326939f0ad2.htm" />
+      <HelpTOCNode Title="CameraZoom Constructor " Url="html/3f62b2f6-0d2f-dd54-7a17-e4a81f03707e.htm" />
+      <HelpTOCNode Id="a8cab28b-8d74-4790-81cc-1dd85379355a" Title="CameraZoom Methods" Url="html/958fb88d-6746-8167-2a75-d1edf4499ea9.htm">
+        <HelpTOCNode Title="setBounds Method " Url="html/6e196e04-4aec-40af-38ab-55446ce437cb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CameraZoom Properties" Url="html/880f4b8a-72ab-ef1f-745f-9b35fee8620d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="c1d6db69-a9ca-42a7-9445-487a6b5e850e" Title="CaptainMurica Class" Url="html/6c66b573-e826-1828-2b54-e00b2492cd40.htm">
+      <HelpTOCNode Title="CaptainMurica Members" Url="html/28c6a0c6-978b-7f8b-8b5a-e47fc3f33ce1.htm" />
+      <HelpTOCNode Title="CaptainMurica Constructor " Url="html/45f71d9f-826d-9895-07e1-9760517776bb.htm" />
+      <HelpTOCNode Id="0f2b7732-93a2-4e7e-93d6-02fbe2b9ea69" Title="CaptainMurica Fields" Url="html/6d929b20-f8c4-acb3-8019-e8effc163eda.htm">
+        <HelpTOCNode Title="KetchupBall Field" Url="html/e34b0eaf-2b66-8cce-291c-7ef5d1a596a3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f50a4e33-6966-4b46-9e25-a5040cc9457e" Title="CaptainMurica Methods" Url="html/4707863a-89a7-890c-e38e-d7cc47a5c60a.htm">
+        <HelpTOCNode Title="rangeAttack Method " Url="html/35dc0eb9-676c-44e7-c62d-79361f89a0b8.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/e987479d-3c5c-be47-15d6-cd1bf27c1435.htm" />
+        <HelpTOCNode Title="superAttack Method " Url="html/725d7a3e-bd3f-b339-0394-04eec6d226f3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CaptainMurica Properties" Url="html/ed00215c-4fb3-f134-11da-69c9be12cbec.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d300a9ef-53a2-4ef8-950d-8679dffe8547" Title="CaptainMuricaSuperAttack Class" Url="html/d45b7254-e854-0615-ef0c-f286514e605b.htm">
+      <HelpTOCNode Title="CaptainMuricaSuperAttack Members" Url="html/a41df748-bf40-0680-6906-c967407173e7.htm" />
+      <HelpTOCNode Title="CaptainMuricaSuperAttack Constructor " Url="html/f68c969e-7a27-d0b6-56ff-aba15d951c2e.htm" />
+      <HelpTOCNode Title="CaptainMuricaSuperAttack Fields" Url="html/e4ab1d10-8c32-0319-9d6a-7d1ad2922951.htm" />
+      <HelpTOCNode Id="d483d5ec-81e7-4d69-b49e-6d19a90e1e2c" Title="CaptainMuricaSuperAttack Methods" Url="html/d43b8413-cae4-3993-cc7f-458adf6c04c5.htm">
+        <HelpTOCNode Title="Update Method " Url="html/12e0ee73-fd71-f5d9-1805-40cb47e9e919.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a0a0b240-806a-4354-be27-960edae48b42" Title="CaptainMuricaSuperAttack Properties" Url="html/4c950e3a-b318-d88c-a980-3a44a7b32446.htm">
+        <HelpTOCNode Title="attackOffset Property " Url="html/7e65c1b6-2daa-18ae-5532-ffeedc3bdb84.htm" />
+        <HelpTOCNode Title="range Property " Url="html/cbea3c87-8020-1383-c488-a44cd8f125b8.htm" />
+        <HelpTOCNode Title="speed Property " Url="html/1897708c-d48f-14af-4a50-4e389e52074c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ebc0d095-d67e-4c2c-ad20-9c70ab86c4e7" Title="Character Interface" Url="html/71b0f18d-7890-30b8-e3a5-35e2817c10a5.htm">
+      <HelpTOCNode Title="Character Members" Url="html/771814b5-5843-9bcd-71ff-3dfa62afe87d.htm" />
+      <HelpTOCNode Id="3ae6601e-b67e-4603-a0e6-66cf710c3392" Title="Character Methods" Url="html/7f710e25-150d-da72-309f-c599ecd21acf.htm">
+        <HelpTOCNode Title="bigMeleeAttack Method " Url="html/84efbab9-1621-8707-85b9-2985350c8c74.htm" />
+        <HelpTOCNode Title="defend Method " Url="html/39607c4b-5360-dbac-1d2b-7bf736abd983.htm" />
+        <HelpTOCNode Title="rangeAttack Method " Url="html/56671be1-7b03-bd08-0224-09f5abcb0c53.htm" />
+        <HelpTOCNode Title="standardAttack Method " Url="html/1890e104-55e8-d897-26e4-2f01c470e5ad.htm" />
+        <HelpTOCNode Title="superAttack Method " Url="html/0b976f32-7806-18ee-228d-46e1b73a03da.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1c41dc67-548d-4044-ba64-a9528b7c925d" Title="Character Properties" Url="html/1c869289-2aeb-a1ac-6557-231d3eb9d4f3.htm">
+        <HelpTOCNode Title="state Property " Url="html/5226e0d7-6b1f-077b-c8d4-08d1667dac14.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="95b413e6-06c0-493e-9238-dd094923bac9" Title="CharacterSelection Class" Url="html/66e81792-4169-caeb-5fb5-582434a85ace.htm">
+      <HelpTOCNode Title="CharacterSelection Members" Url="html/90408ca4-4e9e-0b58-ffdf-5ae819e51f27.htm" />
+      <HelpTOCNode Title="CharacterSelection Constructor " Url="html/2bb4e04b-d434-f636-598f-dec11704c8e7.htm" />
+      <HelpTOCNode Id="88562a2b-a6ac-4853-98ab-5a62e181f8af" Title="CharacterSelection Fields" Url="html/5fc00eea-2e0f-95f1-8fd2-9f85a0cd6e04.htm">
+        <HelpTOCNode Title="style Field" Url="html/956e86f7-f94e-c8d9-053c-488170024f70.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7a7d08bc-2629-4e2a-a96d-0503303b1f18" Title="CharacterSelection Methods" Url="html/243dc742-6e00-e25f-0d86-11bdce14c3e6.htm">
+        <HelpTOCNode Title="OnGUI Method " Url="html/1197fe33-0f8e-3a6b-c202-1497d7cb6744.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/819c32c4-fbe2-da5d-344e-c25c42830d94.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/f023a38d-f7b8-fca1-a7d5-e73052430593.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CharacterSelection Properties" Url="html/8d354c41-fa86-7da7-2545-3a600387b946.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="c9a4727d-3ccd-41a9-a1b6-e003b7a35fb0" Title="Constants Class" Url="html/f9650564-cd2c-cab1-caeb-12f9c8ff19ab.htm">
+      <HelpTOCNode Title="Constants Members" Url="html/e387a555-9a2c-7432-6bd3-701433e4d0b5.htm" />
+      <HelpTOCNode Title="Constants Constructor " Url="html/dc7f512c-2638-8702-537e-7bb2c7e481e8.htm" />
+      <HelpTOCNode Id="86cf26b5-84ae-4e82-893d-7ec94d656b56" Title="Constants Fields" Url="html/d698dee2-da5a-b867-9546-24bdc71a38c5.htm">
+        <HelpTOCNode Title="SpawnPoint Field" Url="html/90b24ce0-d1ef-154f-f71c-9efec221fce0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Constants Methods" Url="html/2cda5c15-d962-3c81-3b48-d4e60e8647ce.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="Constants.Levels Enumeration" Url="html/32d2103f-59a1-f088-b515-3de793412f04.htm" />
+    <HelpTOCNode Id="8fa9ff99-1abc-47b4-a40e-f22a64b248df" Title="CreditScreen Class" Url="html/4b1cad10-91c4-3653-3a98-363daa70746f.htm">
+      <HelpTOCNode Title="CreditScreen Members" Url="html/1feff81f-9a7b-3628-8e4c-a93b4afa333e.htm" />
+      <HelpTOCNode Title="CreditScreen Constructor " Url="html/e97f46b0-f9c6-bb07-d571-22c00fcbc862.htm" />
+      <HelpTOCNode Id="e4f361d8-2663-4363-8db3-95544900f1b3" Title="CreditScreen Fields" Url="html/8e068c3c-2afd-0649-cccd-b6e6ae86ddc2.htm">
+        <HelpTOCNode Title="speed Field" Url="html/308b6567-9a77-c056-1de3-43eb490c2377.htm" />
+        <HelpTOCNode Title="style Field" Url="html/e9f891e4-6881-1f6c-9d47-45c2fcdd0d02.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b25900a8-e0d9-4fc0-8f62-621aec84271b" Title="CreditScreen Methods" Url="html/5c431ea1-2e6c-aa06-71a7-437524945b5d.htm">
+        <HelpTOCNode Title="OnGUI Method " Url="html/c44397ad-6863-518b-eb49-d6f60ae21697.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/da46d320-f8c0-3564-3544-7099987c40bf.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/e49c7b78-5f7a-7cf3-64cf-83c73718f6ff.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="CreditScreen Properties" Url="html/14867918-9d0e-69f4-d4f1-91990756a6c4.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="926d9286-2dda-4719-b161-a38b43f8f84e" Title="Explosion Class" Url="html/4f8d62bb-f5b3-52e7-ccbf-018a10c4274f.htm">
+      <HelpTOCNode Title="Explosion Members" Url="html/17b3a391-a2b9-4d72-fafa-f1e7c29f9b98.htm" />
+      <HelpTOCNode Title="Explosion Constructor " Url="html/b84f24ab-5861-5168-9ddc-25cd52e668ab.htm" />
+      <HelpTOCNode Id="183d7856-4d05-4042-9b9c-3154b2a8af6a" Title="Explosion Fields" Url="html/426e0ebf-8ca6-9ae9-8022-b8cd2edab00b.htm">
+        <HelpTOCNode Title="ps Field" Url="html/0332a691-0e92-86cf-da4d-36fc561aa405.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="41ec20ad-03ed-4a73-8e53-8c0a5a121da4" Title="Explosion Methods" Url="html/74e0e6c4-591b-b0f2-a0b5-fed36e60cc64.htm">
+        <HelpTOCNode Title="Start Method " Url="html/c44c6b1c-8b1e-83d3-6ef2-3d6bc1be6fa5.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/3c0906a9-b674-df71-fb3a-3a800ec00127.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Explosion Properties" Url="html/a11b4a76-f56b-de98-fdf1-28f8bdd1ff93.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="fa603b82-c109-4897-924c-7c265469b42e" Title="FirstGui Class" Url="html/0fd0b286-7fbf-6f06-98a7-9e61c212d356.htm">
+      <HelpTOCNode Title="FirstGui Members" Url="html/65e6637e-f806-49dc-242a-ffe99b925302.htm" />
+      <HelpTOCNode Title="FirstGui Constructor " Url="html/b6a8b3fe-f43b-9c60-f6d0-ee62aa3ac613.htm" />
+      <HelpTOCNode Id="846e4b92-f84f-41f9-b22f-ae88c16e7003" Title="FirstGui Fields" Url="html/7b00ca2d-ae69-ea8b-52f4-bb6e873e0b04.htm">
+        <HelpTOCNode Title="countdown Field" Url="html/baf06a91-cfec-cc39-3b43-99a0453e3c2c.htm" />
+        <HelpTOCNode Title="damage Field" Url="html/a2562f75-aeb6-e721-29f9-c74aef1e5d10.htm" />
+        <HelpTOCNode Title="deads Field" Url="html/3df82fac-1bf0-8a11-fcaf-c3e67eb18c94.htm" />
+        <HelpTOCNode Title="deathDistance Field" Url="html/42037801-5c2b-d3b1-1915-747a020607bc.htm" />
+        <HelpTOCNode Title="firstGuiSkin Field" Url="html/df014010-0123-f25a-5c2c-163779dc4cf8.htm" />
+        <HelpTOCNode Title="playerNames Field" Url="html/8db32eba-f710-ca5d-7ded-f70cde06ddeb.htm" />
+        <HelpTOCNode Title="playerPictures Field" Url="html/08da10cf-7d77-5fbc-2903-75ab4d33d063.htm" />
+        <HelpTOCNode Title="score Field" Url="html/4b464d05-eea5-35f9-8c49-5f27ca66dd66.htm" />
+        <HelpTOCNode Title="scoreScreenTextStyle Field" Url="html/7b1d558e-513a-d760-2932-b77073d5fbaa.htm" />
+        <HelpTOCNode Title="scoreScreenWindowStyle Field" Url="html/ea560c2d-7f9f-ce7d-6f2b-57590ef7936b.htm" />
+        <HelpTOCNode Title="style Field" Url="html/21592571-b8f2-1b5d-30d1-eeb9fc3c62d0.htm" />
+        <HelpTOCNode Title="timerStyle Field" Url="html/2b2ccb18-502e-98bb-c513-63e57644a883.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="51428625-4d94-4c08-b2c5-6f278a5a33a8" Title="FirstGui Methods" Url="html/a567a923-f4bb-fcad-c1cd-71ff3f923c2b.htm">
+        <HelpTOCNode Title="OnGUI Method " Url="html/ec516468-d2f4-43e2-e5eb-9aa5694ff4b7.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/b6759f91-8f9e-8ed4-4181-fa5f14a6b395.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/29ec56ee-d136-5716-c7a6-a5d115810aa0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FirstGui Properties" Url="html/1b411f6e-ec8d-a2be-7479-f529934042d0.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="9738729d-d7f4-4787-bb44-4baad4dbd3dc" Title="GameController Class" Url="html/72cbf8c7-2d60-6b20-4a67-b31661e963fb.htm">
+      <HelpTOCNode Title="GameController Members" Url="html/92564cc1-6981-7adb-b012-fa78302dae5a.htm" />
+      <HelpTOCNode Title="GameController Constructor " Url="html/a1d3e3f6-aec2-bbae-a2d4-40de909f75b7.htm" />
+      <HelpTOCNode Id="0b326480-3f49-4b49-9507-85506a1939b1" Title="GameController Fields" Url="html/3b8cdf27-14c5-fc6c-29fb-db835665f5fb.htm">
+        <HelpTOCNode Title="charOfPlayer Field" Url="html/8e1d61ed-e523-f8e2-b83b-74307abf549c.htm" />
+        <HelpTOCNode Title="isPlaying Field" Url="html/7abe2a86-9c9c-d59c-2f32-8b0f72bbe605.htm" />
+        <HelpTOCNode Title="playerNum Field" Url="html/4b7a3c99-f94b-041e-72bb-80d0a5d9065c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fd1f5490-1014-4570-813d-c659ca79c056" Title="GameController Methods" Url="html/f6d2bed2-cd1b-2c66-d1b0-694c4b1bd556.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/b431c236-6710-4d43-8e1e-9a639ca0f5fb.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/aba0d37c-f732-c403-e96b-37e8dbfb2cdf.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f6cf271f-c260-4760-a515-158efacc8a99" Title="GameController Properties" Url="html/d2665746-66fb-8e1b-9020-ff4b01fa2cd4.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/90850a59-c1a1-928f-3569-2936303ae7dc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d815faa0-f041-4d62-8b5c-da95ce534830" Title="GameMusic Class" Url="html/09061a60-a187-20af-b672-2922a113ad9e.htm">
+      <HelpTOCNode Title="GameMusic Members" Url="html/a9c1194d-b05b-ed60-fbf2-a8138dba4538.htm" />
+      <HelpTOCNode Title="GameMusic Constructor " Url="html/5cfe13b1-311d-e619-a278-7143d44ea3dd.htm" />
+      <HelpTOCNode Id="4e5697cb-91f7-4dc9-856a-7d6c042bd6e8" Title="GameMusic Fields" Url="html/3cd99765-e267-3f4a-c78c-3acd54468b23.htm">
+        <HelpTOCNode Title="creditSound Field" Url="html/23591f3f-3e60-c666-d634-4381784d5af7.htm" />
+        <HelpTOCNode Title="gameSound Field" Url="html/cd80b55d-ffad-1669-bac0-81dbe6b62215.htm" />
+        <HelpTOCNode Title="menuSound Field" Url="html/ab70c218-aac0-8241-378d-f9ae0724b0e3.htm" />
+        <HelpTOCNode Title="topical Field" Url="html/8301b112-252f-af27-db78-14b62c3f8459.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="412954b8-3113-41c7-bdc6-c79abb843e5b" Title="GameMusic Methods" Url="html/c2dc6e55-c829-9781-c3ca-6edfa3552b73.htm">
+        <HelpTOCNode Title="Awake Method " Url="html/59cf1baf-870a-8464-4918-cc13da9a78ec.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/2d3ca7d9-2134-0ebe-3b4b-e9d8e88a4abd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ec45a7b2-045f-41a0-896c-69e5f1e79402" Title="GameMusic Properties" Url="html/7a282dfb-d1a8-c087-7a0c-db0a7d0a0ae2.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/94185954-a4e5-7faa-f832-ef544e3dfff4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="GameMusic.Screen Enumeration" Url="html/2a67d4c6-166c-40df-77bf-5653a0f42dce.htm" />
+    <HelpTOCNode Id="5ccbbe3a-0d6f-40d7-aa55-8347174526b3" Title="GameObjectExtensions Class" Url="html/dd937eef-59eb-169b-410b-5c1005a38b25.htm">
+      <HelpTOCNode Title="GameObjectExtensions Members" Url="html/b4ed4cd8-6ccc-8f75-de42-ab66ef7c7fba.htm" />
+      <HelpTOCNode Id="2e413479-e5d5-48b5-a2e9-0278abe67a93" Title="GameObjectExtensions Methods" Url="html/002ceb68-aee6-66e2-3125-a7189f522184.htm">
+        <HelpTOCNode Title="playAnimationIfExists Method " Url="html/9db2536f-c09c-25e9-0c7e-00d80f972402.htm" />
+        <HelpTOCNode Id="746568f5-2a43-49b5-bc00-7471fd5d014d" Title="playSoundIfExists Method " Url="html/b6c2d258-0792-dcfb-84bc-442f45d8bae3.htm">
+          <HelpTOCNode Title="playSoundIfExists Method (GameObject, AudioClip)" Url="html/a64d4196-ff58-9c19-b623-6bbd6a498440.htm" />
+          <HelpTOCNode Title="playSoundIfExists Method (GameObject, AudioClip, Single)" Url="html/5b1ab06b-0015-6a39-24bf-36cfb6422a27.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="setAnimationSpeed Method " Url="html/3424bb5b-2bd5-a799-105b-3e4ac327e0c0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="34e0d478-c19b-4844-a465-a7eac7772d02" Title="GameObserver Class" Url="html/b4bc9a35-6d08-7ce3-8cef-5a99b56f51b0.htm">
+      <HelpTOCNode Title="GameObserver Members" Url="html/3931af70-82d5-a4f6-45a3-25bbcab03a82.htm" />
+      <HelpTOCNode Title="GameObserver Constructor " Url="html/8cd4aef1-54dc-5f3f-836f-d7726a6d0de1.htm" />
+      <HelpTOCNode Id="6542ee26-5373-4789-91e2-e70e106de1e7" Title="GameObserver Fields" Url="html/2713f35d-8fa5-0524-8775-0e0b42a698e5.htm">
+        <HelpTOCNode Title="gui Field" Url="html/e93ccae6-0269-21ed-4987-1445b1f23b02.htm" />
+        <HelpTOCNode Title="guiPictures Field" Url="html/899948b9-4ce0-e739-dd12-0a7dfe6d519d.htm" />
+        <HelpTOCNode Title="INVINCIBILITY_DURATION Field" Url="html/e4f386ec-9c7a-4632-e470-d2c0e36a0fbe.htm" />
+        <HelpTOCNode Title="mainCam Field" Url="html/06131db7-22bb-3418-4a82-8628a782198c.htm" />
+        <HelpTOCNode Title="miniCam Field" Url="html/7eb5eaf4-98df-947c-2ceb-282b1d540f21.htm" />
+        <HelpTOCNode Title="players Field" Url="html/64521ab8-f281-44c8-b273-881d7b0d4536.htm" />
+        <HelpTOCNode Title="points Field" Url="html/d5698920-44cc-3e1c-f0b5-1ed834b010c7.htm" />
+        <HelpTOCNode Title="RESPAWN_DELAY Field" Url="html/057893fa-bc6e-bfc3-12b4-054e18756ba0.htm" />
+        <HelpTOCNode Title="wings Field" Url="html/9628e63c-a54a-79b5-f909-6f45008b6eee.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="12b98bde-138f-4094-a3d5-a648c964b81a" Title="GameObserver Methods" Url="html/81fff4e9-8350-69e1-edf4-0a58b8359ea2.htm">
+        <HelpTOCNode Title="InvincibleBlink Method " Url="html/4077b479-a838-8010-dd1f-307be997737d.htm" />
+        <HelpTOCNode Title="isFallingOutside Method " Url="html/29aeca2c-c557-742f-63fe-67829e5f3aef.htm" />
+        <HelpTOCNode Title="RespawnPlayer Method " Url="html/7911ecc6-4acd-a572-4ae7-d07a54bac00e.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/81b7ff2b-d115-6fe0-5e15-8bc33442fd77.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/b7889f44-07ee-0a7e-1830-62c85feba37b.htm" />
+        <HelpTOCNode Title="updateGUI Method " Url="html/07258d8f-1dd0-0a46-75c1-633c4eb973c5.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="GameObserver Properties" Url="html/0263d704-2832-df07-ea78-e04de60a32cb.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a294c76c-b067-4d47-9ccd-97dae935cd16" Title="Harry Class" Url="html/f74c26e9-7d7c-3801-2a3a-a30ab2933755.htm">
+      <HelpTOCNode Title="Harry Members" Url="html/673a452f-77e3-e8a8-4f23-f8815d573210.htm" />
+      <HelpTOCNode Title="Harry Constructor " Url="html/66885bca-bedb-4524-04c7-64f4206db9be.htm" />
+      <HelpTOCNode Id="66d1936f-e1f8-432b-ada6-6f006fb13085" Title="Harry Fields" Url="html/d2d2b7f3-866b-077e-0b5f-1b37d7290747.htm">
+        <HelpTOCNode Title="LandingExplosion Field" Url="html/fa3f558b-ee14-9851-31ec-693a1f19428e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d662c007-38f5-49d8-8efe-617b8103b90e" Title="Harry Methods" Url="html/f4613b08-2675-bcd6-4f10-213311d40395.htm">
+        <HelpTOCNode Title="rangeAttack Method " Url="html/3f8b6715-d533-6ea4-feec-fa50a726fd97.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/df3c7015-c605-b72c-f9b3-ba1847bfd437.htm" />
+        <HelpTOCNode Title="superAttack Method " Url="html/9239ea96-0c04-eef3-980b-3e0ba4a3fe57.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/ca822b8d-1706-9a23-4501-34d2297259f8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Harry Properties" Url="html/3872461e-d975-cc25-a668-c1d426116e0f.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="81abb77f-36cd-4d7d-abbf-6a0ac5aad43c" Title="HarrySuperAttack Class" Url="html/c3c95641-c2c1-9110-3e92-79d273f6a274.htm">
+      <HelpTOCNode Title="HarrySuperAttack Members" Url="html/382a7f31-be60-fac8-20eb-22cd6c543c16.htm" />
+      <HelpTOCNode Title="HarrySuperAttack Constructor " Url="html/e953f753-6bd1-5f90-a19f-dee6212149da.htm" />
+      <HelpTOCNode Title="HarrySuperAttack Fields" Url="html/e7bb7526-7652-044d-239d-ba435c70808e.htm" />
+      <HelpTOCNode Id="03a042fc-bf0e-4151-8d7a-ef6bf687fc34" Title="HarrySuperAttack Methods" Url="html/3558216b-1de2-c449-5c1d-5193bd28fb33.htm">
+        <HelpTOCNode Title="Start Method " Url="html/1c5fd5ba-da56-f1f5-217d-96d227e80bdb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f97025e2-3dba-49ac-9635-d767a0b3e54c" Title="HarrySuperAttack Properties" Url="html/9574282b-c636-d667-dbed-fc730b591038.htm">
+        <HelpTOCNode Title="range Property " Url="html/39e31811-10d6-2e16-dc4e-fe32e24958b2.htm" />
+        <HelpTOCNode Title="speed Property " Url="html/33ccef78-6826-0a54-2664-319437e86ec4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="260ec0cf-acaa-4dee-bd5b-124504368a1c" Title="InputManager Class" Url="html/445cec40-85ac-b509-1c7c-a51bb27ee655.htm">
+      <HelpTOCNode Title="InputManager Members" Url="html/a1f6bce5-0deb-44e3-e92f-8436eb584bf7.htm" />
+      <HelpTOCNode Title="InputManager Constructor " Url="html/4a9abcfc-03e8-6abc-5183-9c1c1f3f9284.htm" />
+      <HelpTOCNode Id="5c91fbf2-1355-42ec-b573-feef7063a370" Title="InputManager Methods" Url="html/f8681890-ce59-17ba-9a3d-4c83c5218203.htm">
+        <HelpTOCNode Title="getBMAttackKey Method " Url="html/6408d992-759f-6cb0-cd3c-342d254b37a0.htm" />
+        <HelpTOCNode Title="getDefendKey Method " Url="html/77954a50-f1dc-077c-2992-3b513d43cfd3.htm" />
+        <HelpTOCNode Title="getDefendKeyUp Method " Url="html/eeb00dcf-1001-4e24-46f2-081ceb7fc525.htm" />
+        <HelpTOCNode Title="getHorizontalKey Method " Url="html/eddf54b9-77e5-30a4-eef0-78ba5c121c68.htm" />
+        <HelpTOCNode Title="getJumpKey Method " Url="html/c4237c2d-9e2b-a76c-41bb-de4d83d855e4.htm" />
+        <HelpTOCNode Title="getProvocationKey Method " Url="html/9fb92eba-9c89-8e52-8b53-fb2686a5aa76.htm" />
+        <HelpTOCNode Title="getRangeAttackKey Method " Url="html/effae6b6-023a-1704-5406-31ff9c453aaa.htm" />
+        <HelpTOCNode Title="getSAttackKey Method " Url="html/3e70b973-5779-bfb7-679d-7d9749d94ad8.htm" />
+        <HelpTOCNode Title="getSuperAttackKey Method " Url="html/40c18f41-b79d-9154-bbc8-957906ccb6e0.htm" />
+        <HelpTOCNode Title="getThrowKey Method " Url="html/6d20d29d-d835-908d-2e6d-f918889b39e5.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="19b3d815-4365-43cf-a798-e9ffe31ae05a" Title="Kirb Class" Url="html/655f3754-2a87-e5a9-6d87-f7a6d46fe61f.htm">
+      <HelpTOCNode Title="Kirb Members" Url="html/5fed5921-f2f9-ad42-32f6-0f00f75151a1.htm" />
+      <HelpTOCNode Title="Kirb Constructor " Url="html/dbfe4f2a-7aa5-8271-f1c4-beee89afeaaa.htm" />
+      <HelpTOCNode Id="dd3824d0-f331-4503-8867-bd0bc46cde42" Title="Kirb Fields" Url="html/455a6056-350a-f371-ab61-9ee60356331c.htm">
+        <HelpTOCNode Title="smokeAttackPrefab Field" Url="html/19910dfc-1bfd-19d3-31c7-b80ec80fe6f7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4361da32-3284-48d8-a55e-608383a4ea5e" Title="Kirb Methods" Url="html/5e8ebeae-4e95-f026-b82f-6f91fad2c55f.htm">
+        <HelpTOCNode Title="rangeAttack Method " Url="html/842bee10-5914-13d8-c704-aea49473eb20.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/a7ce4c28-3fbe-b301-9cbf-f6b4a088376b.htm" />
+        <HelpTOCNode Title="superAttack Method " Url="html/ddecaceb-9688-7334-7d5f-81cffb5d836e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Kirb Properties" Url="html/c5e6463c-0623-72b1-d632-65e2f784f58f.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ba5fc118-6e80-42e3-a7b2-eb7a0372e122" Title="LevelSelection Class" Url="html/632e21ad-67c2-a8b3-7547-7c81542bbbba.htm">
+      <HelpTOCNode Title="LevelSelection Members" Url="html/fd884ff4-b7ac-4a1f-3d1d-a12ed11b1a79.htm" />
+      <HelpTOCNode Title="LevelSelection Constructor " Url="html/cfeff631-aab5-09f6-6f90-d9af8f059c7d.htm" />
+      <HelpTOCNode Id="dc879607-6ada-4c2e-a599-136f3f2d00ec" Title="LevelSelection Fields" Url="html/4ab2bf04-ab71-7e85-13b9-b2347f8da27f.htm">
+        <HelpTOCNode Title="level Field" Url="html/9e74c04e-6b70-c0c3-6852-f936f31f523a.htm" />
+        <HelpTOCNode Title="Light Field" Url="html/af27e5d8-5eff-6cb3-72e3-bfbe0e2091c1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5201bbba-8c72-480f-ae98-b385202b8cac" Title="LevelSelection Methods" Url="html/080e794b-dc43-9a6a-5962-0cebf02736bf.htm">
+        <HelpTOCNode Title="OnGUI Method " Url="html/f705680e-edd9-2666-82bc-999ddbfb3d9b.htm" />
+        <HelpTOCNode Title="spotLightPosition Method " Url="html/b2ec6357-067c-1103-7f02-00089075758e.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/fc719dea-db0c-58c5-122f-8c5ea1e7d6fd.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/7db6a630-9428-c26a-83cd-cfb1ecc0836a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="LevelSelection Properties" Url="html/0d225a3f-dec5-d927-dc78-fbd4fcf4df2d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="449851a5-f5dc-4b45-b642-33893eabf13e" Title="MainMenu Class" Url="html/d7466b02-9f80-4e04-da4b-c6b3145a98ed.htm">
+      <HelpTOCNode Title="MainMenu Members" Url="html/200385f5-9a15-7b10-b59b-08994ac0b809.htm" />
+      <HelpTOCNode Title="MainMenu Constructor " Url="html/e31c561d-6eda-a7dd-eb71-3d9572238b10.htm" />
+      <HelpTOCNode Id="f9ef17c2-5fe5-4db0-a322-7e1e6a73e604" Title="MainMenu Fields" Url="html/68f15ba8-ebfd-e642-39a8-a554bc34259e.htm">
+        <HelpTOCNode Title="background Field" Url="html/26161f14-8a82-1aae-5860-3b3867365565.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="631b6e04-3258-460a-8c46-9745a8f1938d" Title="MainMenu Methods" Url="html/cdd100ff-d280-6cfc-c6c9-3feb0f56e5e3.htm">
+        <HelpTOCNode Title="OnGUI Method " Url="html/8c255f29-c255-5f42-1e0b-ce4e2d93accd.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/38fabd42-c6d9-d72e-a8b7-a260e4f6d2ee.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/94a0c64d-7e91-e94a-30b0-07731070db3d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MainMenu Properties" Url="html/8eb2ff36-d31c-9a39-86b6-ce4a3ed9c52d.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="dfa886ba-b158-4481-afd5-0630c94e2fe5" Title="OptionScreen Class" Url="html/ecb53394-52fc-ab95-064b-045c5f821633.htm">
+      <HelpTOCNode Title="OptionScreen Members" Url="html/eb3c3242-39d7-22ed-0bf0-2ea40a6e9a26.htm" />
+      <HelpTOCNode Title="OptionScreen Constructor " Url="html/9a951b9f-f4dd-9f58-3c79-923542231e6b.htm" />
+      <HelpTOCNode Id="980f247d-250d-440b-9cba-8f61723dd82f" Title="OptionScreen Fields" Url="html/d56037d3-2392-c4b0-7362-b53c70fcbd57.htm">
+        <HelpTOCNode Title="controls Field" Url="html/244840f0-78f5-a53c-9633-c69a791c80dd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e9ffc35a-c00e-464f-92a9-4076db12a21e" Title="OptionScreen Methods" Url="html/730f29bd-2e5d-b72e-33c7-840fd227cdbe.htm">
+        <HelpTOCNode Title="OnGUI Method " Url="html/4fc6e081-0187-e9e3-28f2-efadf76c13ea.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/5d0c3b1b-f894-68fb-d202-83071c246b5f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="OptionScreen Properties" Url="html/cee0cb7d-3a95-fcd3-d06d-d12fe637d0b6.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="acd1eaa3-6df4-4fb3-b87d-1c4ea4540024" Title="RangeAttack Class" Url="html/060d269e-2cb8-1ec0-e4f9-69ce867c5eb1.htm">
+      <HelpTOCNode Title="RangeAttack Members" Url="html/e97fb7d6-00ff-8af8-3fde-7a5081640326.htm" />
+      <HelpTOCNode Title="RangeAttack Constructor " Url="html/7ea7df7b-8515-d1ab-3017-be8226836d72.htm" />
+      <HelpTOCNode Id="3cf037fd-9ce2-49ae-9edf-abfa91e7c453" Title="RangeAttack Fields" Url="html/bfd30ec1-4138-c7f6-dfa3-95af5dd65d39.htm">
+        <HelpTOCNode Title="Explosion Field" Url="html/6e34039b-012e-8afa-6c35-bbd3b900bc8f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="01893f3d-b23f-486a-973e-96af556da566" Title="RangeAttack Methods" Url="html/63d35f4f-429d-48d4-6b64-b40e610ab7d8.htm">
+        <HelpTOCNode Title="Start Method " Url="html/ca380eb7-863a-1a8b-1d22-30b12a0a448c.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/c8df026b-b4c5-8dbc-1697-b0c992abc5a8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f117b515-d1d4-4c12-949e-6f5fd0a71691" Title="RangeAttack Properties" Url="html/9c2f2c44-144e-fd59-de17-e404cc13d1c8.htm">
+        <HelpTOCNode Title="range Property " Url="html/694cc178-f991-1c37-bae8-fa5202a0648d.htm" />
+        <HelpTOCNode Title="speed Property " Url="html/9679ea08-27ea-2247-5fac-86cf152ea56a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7aab6302-a3ab-4b0e-a1ff-83a36499ccfe" Title="SimpleAttack Class" Url="html/c1af9316-7344-8498-8d9d-ed9cd02789ad.htm">
+      <HelpTOCNode Title="SimpleAttack Members" Url="html/608471ab-b88d-c137-1d18-a51cbc4a44ba.htm" />
+      <HelpTOCNode Title="SimpleAttack Constructor " Url="html/1ff1ccb9-194a-6cd6-2331-4491acc2f59a.htm" />
+      <HelpTOCNode Title="SimpleAttack Fields" Url="html/aef3a2b9-ecd1-52b4-0143-f9cc0e11955e.htm" />
+      <HelpTOCNode Id="e139b5da-34cb-4a61-8dc9-ed7eb1d3b4fb" Title="SimpleAttack Methods" Url="html/f5fda404-1ea5-2a1f-d3e6-51852d0ff1ce.htm">
+        <HelpTOCNode Title="Start Method " Url="html/ef99e05c-44b1-67bd-a40b-2da9b9ebf182.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/08426480-587b-e85c-0d63-37d24b29b643.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7ff80a5f-0f25-44c4-8ddb-66ced2d0dfdd" Title="SimpleAttack Properties" Url="html/905b398d-4b34-ccc1-abbc-831f8785a1cd.htm">
+        <HelpTOCNode Title="range Property " Url="html/fe35e8a4-7b22-d5ee-230d-57c1a7d377b1.htm" />
+        <HelpTOCNode Title="speed Property " Url="html/62dc9e12-aaf1-de30-31d2-3f91596927a6.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ce81f5fb-0282-4a76-bf73-8c5f9c99bf79" Title="SlimeAttack Class" Url="html/766b63a8-8682-8e99-8022-0642e1bcdccd.htm">
+      <HelpTOCNode Title="SlimeAttack Members" Url="html/33dc020e-0fcb-8bd6-0deb-421ca3b1c2b1.htm" />
+      <HelpTOCNode Title="SlimeAttack Constructor " Url="html/037010bd-8928-8d26-f25f-3fe5a18cb5f4.htm" />
+      <HelpTOCNode Title="SlimeAttack Fields" Url="html/77bd27e1-2ffb-5976-8e4a-55ca957a2e68.htm" />
+      <HelpTOCNode Id="0f28e7d4-72fe-46d7-8be6-02743aadd903" Title="SlimeAttack Methods" Url="html/4a12d16f-d023-118e-b378-5fa9a6d9150b.htm">
+        <HelpTOCNode Title="OnTriggerEnter Method " Url="html/5100d698-7e24-a550-1d69-a41f243d33bc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SlimeAttack Properties" Url="html/337c9eb4-d0ca-8d94-18b6-a9fcff8205ab.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="78167760-a8a2-49b0-b5eb-54e052c3ac87" Title="SmokeAttack Class" Url="html/75fae9ef-e9cb-30b2-0352-676579eed2eb.htm">
+      <HelpTOCNode Title="SmokeAttack Members" Url="html/1b203ffc-cc27-3cbe-d840-eee90a0b3126.htm" />
+      <HelpTOCNode Title="SmokeAttack Constructor " Url="html/ef6938ca-3bb2-c62e-a492-f49df29c85a3.htm" />
+      <HelpTOCNode Title="SmokeAttack Fields" Url="html/1e096d33-c0c2-47e9-ba2d-f08c3e161cf3.htm" />
+      <HelpTOCNode Id="08e0d2c0-7507-4541-a24a-af52058470fc" Title="SmokeAttack Methods" Url="html/60223bc4-a4ea-d3d7-d02b-66c36f8b27cd.htm">
+        <HelpTOCNode Title="OnParticleCollision Method " Url="html/65dfac3d-93b3-b39d-b20f-cf5bb233aaa7.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/45945b56-d7f9-330b-3d59-6fb5c03a2546.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SmokeAttack Properties" Url="html/68711ba7-54af-03bb-8b84-4a26c2819c29.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0f2fe032-1dcc-4871-9306-0154e56b3277" Title="Snail Class" Url="html/4aa517e0-104c-7453-0a2e-f6f775a32d48.htm">
+      <HelpTOCNode Title="Snail Members" Url="html/8a96ac16-024c-c6a2-c5ee-8aaf78a22387.htm" />
+      <HelpTOCNode Title="Snail Constructor " Url="html/e2217f2b-04e1-fd80-3d48-040ab88dcd18.htm" />
+      <HelpTOCNode Id="624539e0-d801-4bac-a2d8-b8cc8378a4f4" Title="Snail Fields" Url="html/934d8b12-7306-fbd8-d022-3eb1ca490ebe.htm">
+        <HelpTOCNode Title="GaryRollingEffect Field" Url="html/ee9bacec-b012-bc99-0263-dceb5afa044d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="29bad274-e02e-4c10-892f-779b0f5a7931" Title="Snail Methods" Url="html/17d9358a-990a-1ee3-1780-ef232f20d5ab.htm">
+        <HelpTOCNode Title="OnCollisionEnter Method " Url="html/62f81fd5-ce66-5210-4861-8a08693b238e.htm" />
+        <HelpTOCNode Title="rangeAttack Method " Url="html/d793b135-6c14-d8a6-f43b-7113e86bcfcd.htm" />
+        <HelpTOCNode Title="specialDefending Method " Url="html/260acf21-3759-3e55-3959-ccb3b058b387.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/4eaf932f-6d49-b474-336f-1f914ad23161.htm" />
+        <HelpTOCNode Title="superAttack Method " Url="html/1719ec8c-44a4-6ac4-4c32-5d5b9ae572fb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Snail Properties" Url="html/5eced864-8ff0-04cc-cca6-c4c958c523c3.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="1ca2313d-6362-416a-9e7b-a25f756e9205" Title="SnailSuperAttack Class" Url="html/751ad810-d141-9cd5-6e57-0e4531504760.htm">
+      <HelpTOCNode Title="SnailSuperAttack Members" Url="html/0cc5208c-b211-f028-a53f-44b5bd5e39f2.htm" />
+      <HelpTOCNode Title="SnailSuperAttack Constructor " Url="html/8a66e579-9307-7f1e-2e6a-633519865bb4.htm" />
+      <HelpTOCNode Title="SnailSuperAttack Fields" Url="html/aa8c327c-3394-0afc-7bd1-d74f8caf6d15.htm" />
+      <HelpTOCNode Title="SnailSuperAttack Methods" Url="html/af8ce522-9c68-3e41-02d4-31345d41069b.htm" />
+      <HelpTOCNode Id="bad5d3f0-62dd-4aef-888e-a579382c4fd4" Title="SnailSuperAttack Properties" Url="html/3850d5d3-d53e-5ef3-d5a4-ae585de66ec8.htm">
+        <HelpTOCNode Title="range Property " Url="html/948e93c0-eac7-3380-f37e-ccc35cbdb0dd.htm" />
+        <HelpTOCNode Title="speed Property " Url="html/1022e1ff-7927-9619-64af-9f926c0266eb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9fcdd088-371d-4060-b32e-78961fd7ef5b" Title="SuperAttack Class" Url="html/2664a279-6db4-6f90-8da2-ec121cf3f96b.htm">
+      <HelpTOCNode Title="SuperAttack Members" Url="html/5136b08d-bd64-7bca-ef21-caf4780515ee.htm" />
+      <HelpTOCNode Title="SuperAttack Constructor " Url="html/032590d4-6c94-a2ef-08b8-853f34e78e3a.htm" />
+      <HelpTOCNode Title="SuperAttack Fields" Url="html/31003c98-dbb8-44b7-3d1e-74b32793edb8.htm" />
+      <HelpTOCNode Id="1f1b52ee-d60c-4371-a798-bd2818e4e545" Title="SuperAttack Methods" Url="html/0987902f-8562-aa86-b33e-1b7ace3bb104.htm">
+        <HelpTOCNode Title="Start Method " Url="html/04e9b9cc-6260-24eb-b5bf-6dd6c308cd43.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ab896383-0594-439a-a158-4e1eb3b92294" Title="SuperAttack Properties" Url="html/8b4629b0-78ee-57bd-4fd8-0f8722b0d77d.htm">
+        <HelpTOCNode Title="isSuperAttack Property " Url="html/abd4736a-7b88-d570-dfec-511f75089441.htm" />
+        <HelpTOCNode Title="range Property " Url="html/448b3fe3-ac0d-de85-97e0-04dac06980be.htm" />
+        <HelpTOCNode Title="speed Property " Url="html/882e251b-e318-37e3-eeb2-f04abe30e39b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3bdeede5-a1a7-4fd4-8511-7b8cfe9fc048" Title="Throw Class" Url="html/f03d8e2c-d365-91d5-9747-080470d7b081.htm">
+      <HelpTOCNode Title="Throw Members" Url="html/27b87b25-1652-444a-b22b-bc66814e14ab.htm" />
+      <HelpTOCNode Title="Throw Constructor " Url="html/0295615d-0025-b5d1-b039-38318d3e6925.htm" />
+      <HelpTOCNode Title="Throw Fields" Url="html/57d57370-43ae-ca0c-3881-5fc56305a90a.htm" />
+      <HelpTOCNode Id="e04f4287-51ac-42d1-ade8-9704c5908177" Title="Throw Methods" Url="html/d39bb971-77c1-6bb5-72bf-10235ff70b8d.htm">
+        <HelpTOCNode Title="Update Method " Url="html/6e25e9f4-2d81-7822-9d2b-95dff5886e9c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2caa1a5f-a513-4cd4-9a43-fa9753164e74" Title="Throw Properties" Url="html/3ed40e10-da44-c3df-eefc-c350665edbd8.htm">
+        <HelpTOCNode Title="range Property " Url="html/ab800c18-f114-f102-2320-c64cd74f086e.htm" />
+        <HelpTOCNode Title="speed Property " Url="html/48fd8a68-8e13-6e0b-6c28-3dbb74040948.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

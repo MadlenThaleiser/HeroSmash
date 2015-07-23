@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 36443f5cb67261c4688e66112cf4e372
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bones_001
+    100002: Cube
+    100004: Cube_MeshPart0
+    100006: Cube_MeshPart1
+    100008: HeadBone
+    100010: LeftBicepsBone
+    100012: LeftCaffBone
+    100014: LeftFootBone
+    100016: LeftForeArmBone
+    100018: LeftForeArmBone_001
+    100020: LeftHandBone
+    100022: LeftHipBone
+    100024: LeftPecBone
+    100026: LeftThighBone
+    100028: LeftWrestleBone
+    100030: MainHipBone
+    100032: NeckBone
+    100034: //RootNode
+    100036: RightBicepsBone
+    100038: RightCaffBone
+    100040: RightFootBone
+    100042: RightForeArmBone
+    100044: RightHandBone
+    100046: RightHandBone_001
+    100048: RightHipBone
+    100050: RightPecBone
+    100052: RightThighBone
+    100054: RightWristleBone
+    100056: RightWristleBone_001
+    100058: RightWristleBone_002
+    100060: RightWristleBone_003
+    100062: RootBone
+    100064: TorsoBone
+    100066: UpperPecBone
+    400000: Bones_001
+    400002: Cube
+    400004: Cube_MeshPart0
+    400006: Cube_MeshPart1
+    400008: HeadBone
+    400010: LeftBicepsBone
+    400012: LeftCaffBone
+    400014: LeftFootBone
+    400016: LeftForeArmBone
+    400018: LeftForeArmBone_001
+    400020: LeftHandBone
+    400022: LeftHipBone
+    400024: LeftPecBone
+    400026: LeftThighBone
+    400028: LeftWrestleBone
+    400030: MainHipBone
+    400032: NeckBone
+    400034: //RootNode
+    400036: RightBicepsBone
+    400038: RightCaffBone
+    400040: RightFootBone
+    400042: RightForeArmBone
+    400044: RightHandBone
+    400046: RightHandBone_001
+    400048: RightHipBone
+    400050: RightPecBone
+    400052: RightThighBone
+    400054: RightWristleBone
+    400056: RightWristleBone_001
+    400058: RightWristleBone_002
+    400060: RightWristleBone_003
+    400062: RootBone
+    400064: TorsoBone
+    400066: UpperPecBone
+    4300000: Cube_MeshPart0
+    4300002: Cube_MeshPart1
+    7400000: Default Take
+    7400002: Bones_001Action
+    9500000: //RootNode
+    13700000: Cube_MeshPart0
+    13700002: Cube_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: dac18a4785feceb4a91c10d3554e8b19
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: body
+    100002: //RootNode
+    100004: chest
+    100006: Cube
+    100008: fingerIndexMiddle_L
+    100010: fingerIndexMiddle_R
+    100012: fingerIndexStart_L
+    100014: fingerIndexStart_R
+    100016: fingerIndexTip_L
+    100018: fingerIndexTip_R
+    100020: fingerMiddle_R
+    100022: fingerMiddleIK_R
+    100024: fingerMiddleMiddle_L
+    100026: fingerMiddleMiddle_R
+    100028: fingerMiddleStart_L
+    100030: fingerMiddleStart_R
+    100032: fingerMiddleTip_L
+    100034: fingerMiddleTip_R
+    100036: fingerPinkyMiddle_L
+    100038: fingerPinkyMiddle_R
+    100040: fingerPinkyStart_L
+    100042: fingerPinkyStart_R
+    100044: fingerPinkyTip_L
+    100046: fingerPinkyTip_R
+    100048: fingerRingMiddle_L
+    100050: fingerRingMiddle_R
+    100052: fingerRingStart_L
+    100054: fingerRingStart_R
+    100056: fingerRingTip_L
+    100058: fingerRingTip_R
+    100060: fingerThumbMiddle_L
+    100062: fingerThumbMiddle_R
+    100064: fingerThumbStart_L
+    100066: fingerThumbStart_R
+    100068: fingerThumbTip_L
+    100070: fingerThumbTip_R
+    100072: foot_L
+    100074: foot_R
+    100076: footIK_L
+    100078: footIK_R
+    100080: forearm_L
+    100082: forearm_R
+    100084: hand_L
+    100086: hand_R
+    100088: head
+    100090: heelIK_L
+    100092: heelIK_R
+    100094: hips
+    100096: masterBone
+    100098: neck
+    100100: shin_L
+    100102: shin_R
+    100104: shoulder_L
+    100106: shoulder_R
+    100108: spine
+    100110: thigh_L
+    100112: thigh_R
+    100114: toe_L
+    100116: toe_R
+    100118: upperarm_L
+    100120: upperarm_R
+    400000: body
+    400002: //RootNode
+    400004: chest
+    400006: Cube
+    400008: fingerIndexMiddle_L
+    400010: fingerIndexMiddle_R
+    400012: fingerIndexStart_L
+    400014: fingerIndexStart_R
+    400016: fingerIndexTip_L
+    400018: fingerIndexTip_R
+    400020: fingerMiddle_R
+    400022: fingerMiddleIK_R
+    400024: fingerMiddleMiddle_L
+    400026: fingerMiddleMiddle_R
+    400028: fingerMiddleStart_L
+    400030: fingerMiddleStart_R
+    400032: fingerMiddleTip_L
+    400034: fingerMiddleTip_R
+    400036: fingerPinkyMiddle_L
+    400038: fingerPinkyMiddle_R
+    400040: fingerPinkyStart_L
+    400042: fingerPinkyStart_R
+    400044: fingerPinkyTip_L
+    400046: fingerPinkyTip_R
+    400048: fingerRingMiddle_L
+    400050: fingerRingMiddle_R
+    400052: fingerRingStart_L
+    400054: fingerRingStart_R
+    400056: fingerRingTip_L
+    400058: fingerRingTip_R
+    400060: fingerThumbMiddle_L
+    400062: fingerThumbMiddle_R
+    400064: fingerThumbStart_L
+    400066: fingerThumbStart_R
+    400068: fingerThumbTip_L
+    400070: fingerThumbTip_R
+    400072: foot_L
+    400074: foot_R
+    400076: footIK_L
+    400078: footIK_R
+    400080: forearm_L
+    400082: forearm_R
+    400084: hand_L
+    400086: hand_R
+    400088: head
+    400090: heelIK_L
+    400092: heelIK_R
+    400094: hips
+    400096: masterBone
+    400098: neck
+    400100: shin_L
+    400102: shin_R
+    400104: shoulder_L
+    400106: shoulder_R
+    400108: spine
+    400110: thigh_L
+    400112: thigh_R
+    400114: toe_L
+    400116: toe_R
+    400118: upperarm_L
+    400120: upperarm_R
+    4300000: Cube
+    7400000: Default Take
+    7400002: bodyAction
+    7400004: Ready Stance
+    7400006: Simple Attack
+    7400008: Big Melee Attack
+    7400010: Defense Up
+    7400012: Defense Down
+    7400014: Jump
+    7400016: Land
+    7400018: Provocation
+    7400020: Falling on the Ground
+    7400022: Getting Up
+    7400024: Running
+    7400026: Getting Hit
+    7400028: Hitting the Wall
+    7400030: Range Attack
+    7400032: Super Attack
+    7400034: Throw Attack
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: bodyAction
+      takeName: bodyAction
+      firstFrame: -1
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Ready Stance
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Simple Attack
+      takeName: Default Take
+      firstFrame: 8
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Big Melee Attack
+      takeName: Default Take
+      firstFrame: 17
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Defense Up
+      takeName: Default Take
+      firstFrame: 38
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Defense Down
+      takeName: Default Take
+      firstFrame: 41
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Jump
+      takeName: Default Take
+      firstFrame: 83
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Land
+      takeName: Default Take
+      firstFrame: 92
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Provocation
+      takeName: Default Take
+      firstFrame: 50
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Falling on the Ground
+      takeName: Default Take
+      firstFrame: 95
+      lastFrame: 101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Getting Up
+      takeName: Default Take
+      firstFrame: 104
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Running
+      takeName: Default Take
+      firstFrame: 74
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Getting Hit
+      takeName: Default Take
+      firstFrame: 44
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Hitting the Wall
+      takeName: Default Take
+      firstFrame: 122
+      lastFrame: 128
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Range Attack
+      takeName: Default Take
+      firstFrame: 128
+      lastFrame: 137
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Super Attack
+      takeName: Default Take
+      firstFrame: 137
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Throw Attack
+      takeName: Default Take
+      firstFrame: 110
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 
